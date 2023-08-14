@@ -114,6 +114,11 @@ figure {
   right: 0;
   background: rgba(255, 144, 0, 0.9);
 }
+
+.consult-overlay {
+  background: rgba(255, 144, 0, 0.9);
+}
+
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
   width: 100%;
